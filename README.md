@@ -1,7 +1,6 @@
-# baitapchuong3
-# Tên Bài Tập / Dự Án (Ví dụ: Chương trình Xử lý Số học Cơ bản)
+# Bài Tập Chương 3 - Chương trình Xử lý Số học Cơ bản
 
-Mô tả ngắn gọn mục đích của bài tập này (Ví dụ: Bài tập thực hành môn Nhập môn Lập trình sử dụng ngôn ngữ Python).
+Bài tập thực hành môn Nhập môn Lập trình sử dụng ngôn ngữ Python.
 
 ## 📝 Mô tả bài toán
 - **Yêu cầu:** Viết chương trình nhập vào một số nguyên dương $n$, kiểm tra tính chất của số đó (số nguyên tố, số chính phương) và tính tổng các chữ số.
@@ -16,5 +15,5 @@ Mô tả ngắn gọn mục đích của bài tập này (Ví dụ: Bài tập t
 
 1. **Clone repository về máy:**
    ```bash
-   git clone [https://github.com/username/ten-repo.git](https://github.com/username/ten-repo.git)
-   cd ten-repo
+   git clone [https://github.com/bangkmg/baitapchuong3.git](https://github.com/bangkmg/baitapchuong3.git)
+   cd baitapchuong3
